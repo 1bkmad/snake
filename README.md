@@ -2,7 +2,9 @@
 This project contains the python code for famous snake game, using Python's Turtle Lib.
 In this project I have used python's Turtle Module and the OOPs concept. The whole project is divided into 4 files to make the code more readable.
 
-
+How to play:
+  Use the arrow keys to control snake's direction. The snake will automatically move forward in the current direction. 
+  After consuming the food ( yellow dots on screen), the snake will grow in length.
 
 main.py:
   - Contains functions related to setting up environment ( like screen color, size, title etc.)
